@@ -1,0 +1,219 @@
+{
+  "items": [
+    { "id": 1, "name": "Fire TV Stick", "price": "32.99" },
+    { "id": 2, "name": "Amazon Echo Dot", "price": "49.99" },
+    { "id": 3, "name": "Amazon Echo, Black", "price": "149.99" },
+    { "id": 4, "name": "Fire Tablet, 7", "price": "47.49" },
+    { "id": 5, "name": "Kindle Paperwhitefff", "price": "104.99" }
+  ],
+  "user": [
+    {
+      "usuario_id": 98,
+      "codigo": "TRABAJO\\GABALOS",
+      "apellido": "Abalos de Achar", "nombres": "Graciela Lucila",
+      "activo": 1
+    },
+    {
+      "usuario_id": 605,
+      "codigo": "TRABAJO\\BABECASSIS",
+      "apellido": "ABECASSIS", "nombres": "BELEN",
+      "activo": 1
+    },
+    {
+      "row_number": 3,
+      "usuario_id": 174,
+      "codigo": "TRABAJO\\DABRAN",
+      "apellido": "Abran", "nombres": "Diego Carlos",
+      "activo": 1
+    },
+    {
+      "row_number": 4,
+      "usuario_id": 588,
+      "codigo": "TRABAJO\\GABRELIANO",
+      "apellido": "ABRELIANO", "nombres": "Gabriela",
+      "activo": 1
+    },
+    {
+      "row_number": 5,
+      "usuario_id": 555,
+      "codigo": "TRABAJO\\CACIARES",
+      "apellido": "ACIARES", "nombres": "Carina",
+      "activo": 1
+    },
+    {
+      "row_number": 6,
+      "usuario_id": 312,
+      "codigo": "TRABAJO\\LARCHIMB",
+      "apellido": "Acosta De Archimbal", "nombres": "Maria Liliana",
+      "activo": 1
+    },
+    {
+      "row_number": 7,
+      "usuario_id": 913,
+      "codigo": "TRABAJO\\LARCHIM",
+      "apellido": "Acosta de Archimbal", "nombres": "María Liliana",
+      "activo": 1
+    },
+    {
+      "row_number": 8,
+      "usuario_id": 237,
+      "codigo": "TRABAJO\\AACOSTA",
+      "apellido": "Acosta", "nombres": "Amilcar Arturo",
+      "activo": 1
+    },
+    {
+      "row_number": 9,
+      "usuario_id": 230,
+      "codigo": "TRABAJO\\MACUÑA",
+      "apellido": "Acuña", "nombres": "Maria Fernanda",
+      "activo": 1
+    },
+    {
+      "row_number": 10,
+      "usuario_id": 252,
+      "codigo": "TRABAJO\\JADARO",
+      "apellido": "Adaro", "nombres": "Javier Jose",
+      "activo": 1
+    },
+    {
+      "row_number": 11,
+      "usuario_id": 80,
+      "codigo": "TRABAJO\\JAGIS",
+      "apellido": "Agis", "nombres": "Julia Eugenia",
+      "activo": 1
+    },
+    {
+      "row_number": 12,
+      "usuario_id": 538,
+      "codigo": "TRABAJO\\MFAGUERO",
+      "apellido": "Aguero Lavigne", "nombres": "María Florencia",
+      "activo": 0
+    },
+    {
+      "row_number": 13,
+      "usuario_id": 885,
+      "codigo": "TRABAJO\\GAAGUILAR",
+      "apellido": "Aguilar", "nombres": "Gabriel",
+      "activo": 1
+    },
+    {
+      "row_number": 14,
+      "usuario_id": 940,
+      "codigo": "TRABAJO\\MIAGUIRRE",
+      "apellido": "Aguirre", "nombres": "María Isabel",
+      "activo": 1
+    },
+    {
+      "row_number": 15,
+      "usuario_id": 268,
+      "codigo": "TRABAJO\\PAGUIRRE",
+      "apellido": "Aguirre", "nombres": "Patricia del Carmen",
+      "activo": 1
+    },
+    {
+      "row_number": 16,
+      "usuario_id": 926,
+      "codigo": "TRABAJO\\MAIRES",
+      "apellido": "Aires", "nombres": "María Jimena",
+      "activo": 1
+    },
+    {
+      "row_number": 17,
+      "usuario_id": 137,
+      "codigo": "TRABAJO\\ARALANIZ",
+      "apellido": "Alaniz", "nombres": "Ana Rosario",
+      "activo": 1
+    },
+    {
+      "row_number": 18,
+      "usuario_id": 432,
+      "codigo": "TRABAJO\\MALBANESE",
+      "apellido": "Albanese", "nombres": "Maria Laura",
+      "activo": 1
+    },
+    {
+      "row_number": 19,
+      "usuario_id": 169,
+      "codigo": "TRABAJO\\LALBARRACIN",
+      "apellido": "Albarracín", "nombres": "Liliana",
+      "activo": 1
+    },
+    {
+      "row_number": 20,
+      "usuario_id": 927,
+      "codigo": "TRABAJO\\MALCANONI",
+      "apellido": "Alcanoni", "nombres": "Marcelo Claudio",
+      "activo": 1
+    },
+    {
+      "row_number": 21,
+      "usuario_id": 552,
+      "codigo": "TRABAJO\\SALCHU",
+      "apellido": "ALCHU", "nombres": "Santiago",
+      "activo": 1
+    },
+    {
+      "row_number": 22,
+      "usuario_id": 30,
+      "codigo": "TRABAJO\\MALCIBAR",
+      "apellido": "Alcibar", "nombres": "Mónica",
+      "activo": 1
+    },
+    {
+      "row_number": 23,
+      "usuario_id": 222,
+      "codigo": "TRABAJO\\MJALFONSO",
+      "apellido": "Alfonso", "nombres": "Maria Jose",
+      "activo": 1
+    },
+    {
+      "row_number": 24,
+      "usuario_id": 440,
+      "codigo": "TRABAJO\\NALFONSO",
+      "apellido": "Alfonso", "nombres": "Noelia Isabel",
+      "activo": 1
+    },
+    {
+      "row_number": 25,
+      "usuario_id": 870,
+      "codigo": "TRABAJO\\EALMADA",
+      "apellido": "Almada", "nombres": "Edelveis del Rosario",
+      "activo": 1
+    },
+    {
+      "row_number": 26,
+      "usuario_id": 375,
+      "codigo": "TRABAJO\\EALONSO",
+      "apellido": "ALONSO NAVARRO", "nombres": "Eva",
+      "activo": 1
+    },
+    {
+      "row_number": 27,
+      "usuario_id": 594,
+      "codigo": "TRABAJO\\MALONSO",
+      "apellido": "ALONZO", "nombres": "Maria Laura",
+      "activo": 1
+    },
+    {
+      "row_number": 28,
+      "usuario_id": 906,
+      "codigo": "TRABAJO\\JALVARADO",
+      "apellido": "Alvarado", "nombres": "Johanna",
+      "activo": 1
+    },
+    {
+      "row_number": 29,
+      "usuario_id": 459,
+      "codigo": "TRABAJO\\AALVAREZ",
+      "apellido": "Alvarez", "nombres": "Ana Lucia",
+      "activo": 0
+    },
+    {
+      "row_number": 30,
+      "usuario_id": 368,
+      "codigo": "TRABAJO\\LOALVAREZ",
+      "apellido": "ALVAREZ", "nombres": "Lucas Omar",
+      "activo": 1
+    }
+  ]
+}
